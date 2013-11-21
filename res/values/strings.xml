@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ArgyleLiveWallpaper</string>
+  <string name="preview">preview pattern</string>
+  <string name="save_image">save image</string>
+  <string name="set_as_wallpaper">set as wallpaper</string>
+  <string name="primary_color">primary color</string>
+  <string name="secondary_color">secondary color</string>
+  <string name="background_color">background color</string>
+  <string name="line_color">line color</string>
+  <string name="line_thickness">line thickness</string>
+  <string name="diamonds_x">diamonds in x-direction</string>
+  <string name="diamonds_y">diamonds in y-direction</string>
+  <string name="start_lines_in_corner">start lines in corners</string>
+</resources>
